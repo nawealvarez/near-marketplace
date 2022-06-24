@@ -1,5 +1,5 @@
 // eslint-disable-next-line no-template-curly-in-string
-const CONTRACT_NAME = process.env.CONTRACT_NAME || "mycontract.nawealvarez.testnet"; // line 1
+const CONTRACT_NAME = process.env.CONTRACT_NAME || "mycontract2.nawealvarez.testnet"; // line 1
 
 function environment(env) {
     switch(env) {
